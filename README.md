@@ -1,10 +1,2 @@
-# STATIC
-
-**This directory is not required, you can delete it if you don't want to use it.**
-
-This directory contains your static files.
-Each file inside this directory is mapped to `/`.
-
-Example: `/static/robots.txt` is mapped as `/robots.txt`.
-
-More information about the usage of this directory in [the documentation](https://nuxtjs.org/guide/assets#static).
+<p align="center"><img src="https://github.com/alexandesigner/www/blob/master/assets/images/brand.jpg" width="482" /></p>
+<p align="center"><a href="https://alexandesigner.github.io" target="_blank">Go to website</a></p>
